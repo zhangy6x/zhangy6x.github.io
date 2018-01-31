@@ -5,7 +5,34 @@
     
     <url>
     
+      <loc>/publication/v2o5_imaging/</loc>
+      <lastmod>2018-01-31T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/imagingreso/</loc>
+      <lastmod>2017-11-17T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/</loc>
+      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/limg_imaging/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -32,8 +59,27 @@
     
     <url>
     
-      <loc>/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+      <loc>/publication/phd_thesis/</loc>
+      <lastmod>2016-12-31T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication_types/0/</loc>
+      <lastmod>2016-12-31T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication_types/2/</loc>
+      <lastmod>2018-01-31T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -52,6 +98,7 @@
     <url>
     
       <loc>/publication_types/</loc>
+      <lastmod>2016-12-31T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -61,6 +108,16 @@
     <url>
     
       <loc>/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/</loc>
+      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
