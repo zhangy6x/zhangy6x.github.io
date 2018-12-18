@@ -4,7 +4,63 @@
     
     <url>
     
-      <loc>/publication/v2o5_imaging/</loc>
+      <loc>/talk/2018_ans_w/</loc>
+      <lastmod>2018-12-17T22:51:08-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/2018_orpa/</loc>
+      <lastmod>2018-12-17T22:50:51-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/tof_imaging/</loc>
+      <lastmod>2018-12-17T22:32:18-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/li_battery_phd/</loc>
+      <lastmod>2018-12-17T22:25:35-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/2018_zhang_ans/</loc>
+      <lastmod>2018-11-15T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/2018_myhre_ans/</loc>
+      <lastmod>2018-11-15T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/2018_acns/</loc>
+      <lastmod>2018-06-28T22:50:36-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/2018_zhang_v2o5/</loc>
       <lastmod>2018-01-31T00:00:00-05:00</lastmod>
     </url>
     
@@ -12,7 +68,15 @@
     
     <url>
     
-      <loc>/publication/imagingreso/</loc>
+      <loc>/publication/2017_zhang_limg/index/</loc>
+      <lastmod>2017-12-01T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/2017_zhang_imagingreso/</loc>
       <lastmod>2017-11-17T00:00:00-05:00</lastmod>
     </url>
     
@@ -21,14 +85,6 @@
     <url>
     
       <loc>/post/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/limg_imaging/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -52,8 +108,16 @@
     
     <url>
     
-      <loc>/publication/phd_thesis/</loc>
+      <loc>/publication/2016_zhang_phd/</loc>
       <lastmod>2016-12-31T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/2016_mst/</loc>
+      <lastmod>2016-10-23T22:50:01-05:00</lastmod>
     </url>
     
   
@@ -62,6 +126,15 @@
     
       <loc>/publication_types/0/</loc>
       <lastmod>2016-12-31T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/1/</loc>
+      <lastmod>2018-11-15T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -79,6 +152,15 @@
     <url>
     
       <loc>/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/</loc>
+      <lastmod>2018-12-17T22:32:18-05:00</lastmod>
       <priority>0</priority>
     </url>
     
